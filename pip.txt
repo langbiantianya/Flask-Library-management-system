@@ -1,0 +1,15 @@
+Flask
+Flask-Cache
+Flask-Caching
+Flask-Cors
+Flask-DebugToolbar
+Flask-JWT
+Flask-Login
+Flask-Mail
+Flask-Migrate
+Flask-RESTful
+Flask-Script
+Flask-Session
+Flask-SQLAlchemy
+Flask-WTF
+
